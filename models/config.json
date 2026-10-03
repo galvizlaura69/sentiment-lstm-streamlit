@@ -1,8 +1,7 @@
 {
-  "max_words": 10000,
-  "maxlen": 300,
+  "vocab_size": 20000,
+  "maxlen": 400,
   "threshold": 0.5,
-  "start_token": 1,
-  "oov_token": 2,
-  "index_offset": 3
+  "language": "es",
+  "dataset": "Spanish-translated IMDb 50K"
 }
